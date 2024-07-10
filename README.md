@@ -22,7 +22,7 @@ Welcome to MealMate, a Swiggy clone web application built using React, Redux, Ta
 
 ## Demo
 
-Check out the live demo of the application [here](#).
+Check out the live demo of the application [here](https://meal-mate-ritu.netlify.app/).
 
 ## Technologies Used
 
