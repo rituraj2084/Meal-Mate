@@ -1,4 +1,4 @@
-# FoodFrenzy - A Swiggy Clone
+# MealMate - A Food Delivery App
 
 Welcome to MealMate, a Swiggy clone web application built using React, Redux, Tailwind CSS, and various React libraries.
 
@@ -37,7 +37,7 @@ Check out the live demo of the application [here](#).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rituraj2084/meal-mate.git
+   git clone https://github.com/rituraj2084/Meal-Mate.git
    ```
 
 2. Navigate to the project directory:
